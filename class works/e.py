@@ -17,9 +17,9 @@ class Faculty():
         self.courses = courses
         self.name = name
           
-SITE = Faculty("PP1", "PP2", "Discrete math", "Databases")
+SITE = Faculty("PP1", "PP2", "Discrete Math", "Databases")
 BS = Faculty("Startup", "Stocks")
-ISE = Faculty("Finance", "Microeconomic", "Macroeconomic")
+ISE = Faculty("Finance", "Microeconomic")
 
 KBTU = University("KBTU", ["SITE", "BS", "ISE"])
 
