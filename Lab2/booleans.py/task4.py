@@ -1,2 +1,2 @@
 print(bool("abc"))
-False
+True

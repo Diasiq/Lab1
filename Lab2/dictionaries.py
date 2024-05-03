@@ -30,3 +30,10 @@ car =	{ #4
 car.pop("model")
 
 
+car =	{ #5
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+car.clear()
+

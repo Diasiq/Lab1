@@ -29,3 +29,4 @@ print(fruits[2:5])
 fruits = ["apple", "banana", "cherry"] #8
 print(len(fruits))
 
+

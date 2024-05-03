@@ -42,4 +42,10 @@ a = 2 #8
 b = 5
 print("YES") if a == b else print("NO")
 
+a = 2 #9
+b = 50
+c = 2
+if a == c or b == c:
+
+  print("YES")
 
